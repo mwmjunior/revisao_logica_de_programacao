@@ -1,0 +1,14 @@
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\bin\Debug\net7.0\somar_numeros_pares_0_100.exe
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\bin\Debug\net7.0\somar_numeros_pares_0_100.deps.json
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\bin\Debug\net7.0\somar_numeros_pares_0_100.runtimeconfig.json
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\bin\Debug\net7.0\somar_numeros_pares_0_100.dll
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\bin\Debug\net7.0\somar_numeros_pares_0_100.pdb
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.AssemblyInfoInputs.cache
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.AssemblyInfo.cs
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.dll
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\refint\somar_numeros_pares_0_100.dll
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.pdb
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\somar_numeros_pares_0_100.genruntimeconfig.cache
+C:\Users\836574281\Downloads\advinha_numero_entre_0_10\obj\Debug\net7.0\ref\somar_numeros_pares_0_100.dll

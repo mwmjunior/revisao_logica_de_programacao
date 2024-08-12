@@ -1,0 +1,29 @@
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\bin\Debug\net7.0\EX_5_LISTA1.exe
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\bin\Debug\net7.0\EX_5_LISTA1.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\bin\Debug\net7.0\EX_5_LISTA1.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\bin\Debug\net7.0\EX_5_LISTA1.dll
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\bin\Debug\net7.0\EX_5_LISTA1.pdb
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.dll
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\refint\EX_5_LISTA1.dll
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.pdb
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\EX_5_LISTA1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\EX_5_LISTA1\obj\Debug\net7.0\ref\EX_5_LISTA1.dll
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\bin\Debug\net7.0\EX_5_LISTA1.exe
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\bin\Debug\net7.0\EX_5_LISTA1.deps.json
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\bin\Debug\net7.0\EX_5_LISTA1.runtimeconfig.json
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\bin\Debug\net7.0\EX_5_LISTA1.dll
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\bin\Debug\net7.0\EX_5_LISTA1.pdb
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.AssemblyInfoInputs.cache
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.AssemblyInfo.cs
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.dll
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\refint\EX_5_LISTA1.dll
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.pdb
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\EX_5_LISTA1.genruntimeconfig.cache
+C:\Users\836574281\Downloads\atividade_revisao_logica_de_programacao\EX_5\obj\Debug\net7.0\ref\EX_5_LISTA1.dll

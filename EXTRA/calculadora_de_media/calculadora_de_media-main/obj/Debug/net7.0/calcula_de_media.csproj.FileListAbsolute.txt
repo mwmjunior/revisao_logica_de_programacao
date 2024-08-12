@@ -1,0 +1,29 @@
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\bin\Debug\net7.0\calcula_de_media.exe
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\bin\Debug\net7.0\calcula_de_media.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\bin\Debug\net7.0\calcula_de_media.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\bin\Debug\net7.0\calcula_de_media.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\bin\Debug\net7.0\calcula_de_media.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\refint\calcula_de_media.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\calcula_de_media.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\calculadora_de_media\obj\Debug\net7.0\ref\calcula_de_media.dll
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\bin\Debug\net7.0\calcula_de_media.exe
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\bin\Debug\net7.0\calcula_de_media.deps.json
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\bin\Debug\net7.0\calcula_de_media.runtimeconfig.json
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\bin\Debug\net7.0\calcula_de_media.dll
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\bin\Debug\net7.0\calcula_de_media.pdb
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.AssemblyInfoInputs.cache
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.AssemblyInfo.cs
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.dll
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\refint\calcula_de_media.dll
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.pdb
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\calcula_de_media.genruntimeconfig.cache
+C:\Users\836574281\Downloads\calculadora_de_media-main\calculadora_de_media-main\obj\Debug\net7.0\ref\calcula_de_media.dll

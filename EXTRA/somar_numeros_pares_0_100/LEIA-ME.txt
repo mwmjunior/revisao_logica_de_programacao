@@ -1,0 +1,1 @@
+Faça um programa que receba 5 notas de um aluno e calcule a média aritmética. Imprimir a resposta no console.
